@@ -56,7 +56,7 @@ Your contributions are valuable! Follow these steps to contribute to Java NotePa
 
 2. **Clone the Forked Repository:**
    ```bash
-   git clone https://github.com/<your-username>/JavaNotePad.git
+   git clone [https://github.com/<your-username>/JavaNotePad.git](https://github.com/Mochxd/NotePad-App.git)
    cd JavaNotePad
 
 3. **Create a New Branch:**
