@@ -51,12 +51,12 @@ Java NotePad is a lightweight, user-friendly text editor developed using Java Sw
 Your contributions are valuable! Follow these steps to contribute to Java NotePad.
 
 1. **Fork the Repository:**
-   - Visit the [Java NotePad repository]([https://github.com/<your-username>/JavaNotePad]).
+   - Visit the [Java NotePad repository]([https://github.com/Mochxd/NotePad-App.git]).
    - Click the "Fork" button in the upper right corner to create a fork under your GitHub account.
 
 2. **Clone the Forked Repository:**
    ```bash
-   git clone [https://github.com/<your-username>/JavaNotePad.git](https://github.com/Mochxd/NotePad-App.git)
+   git clone ([https://github.com/Mochxd/NotePad-App.git])
    cd JavaNotePad
 
 3. **Create a New Branch:**
