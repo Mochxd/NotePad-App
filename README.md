@@ -21,7 +21,8 @@ Java NotePad is a lightweight, user-friendly text editor developed using Java Sw
 - [How to Contribute](#how-to-contribute)
 - [Development Setup](#development-setup)
 - [Dependencies](#dependencies)
-- [License](#license)
+- [Communication](#communication)
+- [Contact](#contact)
 
 ## Usage
 
