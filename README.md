@@ -57,11 +57,9 @@ Your contributions are valuable! Follow these steps to contribute to Java NotePa
    ```bash
    git clone https://github.com/<your-username>/JavaNotePad.git
    cd JavaNotePad
-
 1. ## Create a New Branch:
-
-Create a new branch for your feature:
-```bash
+2. ## Make Changes and Commit:
+Create a new branch for your feature: ```bash
 git checkout -b feature/new-feature
 
 2. ## Make Changes and Commit:
